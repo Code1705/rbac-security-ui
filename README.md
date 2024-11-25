@@ -23,7 +23,7 @@ This project is built using modern web development tools to ensure responsivenes
 Ensure you have the following installed on your system:
 
 - **Node.js** (version 14 or above)
-- **npm** (version 6 or above) or **yarn** (version 1 or above)
+- **npm** (version 6 or above)
 - A modern browser for testing the application (e.g., Chrome, Firefox).
 
 ---
