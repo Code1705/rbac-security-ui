@@ -33,7 +33,7 @@ Ensure you have the following installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repository/rbac-security-ui.git
+git clone [https://github.com/your-repository/rbac-security-ui.git](https://github.com/Code1705/rbac-security-ui)
 ```
 
 ### 2. Navigate to the Project Directory
@@ -122,5 +122,5 @@ This project is licensed under the [MIT License](LICENSE).
 For questions or support, please contact:
 
 - **Name**: Sikta Mondal
-- **Email**: your.email@example.com
+- **Email**: sm2535@it.jgec.ac.in
 - **GitHub**: [Code1705](https://github.com/Code1705)
