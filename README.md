@@ -33,7 +33,7 @@ Ensure you have the following installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-repository/rbac-security-ui.git](https://github.com/Code1705/rbac-security-ui)
+git clone https://github.com/Code1705/rbac-security-ui.git
 ```
 
 ### 2. Navigate to the Project Directory
